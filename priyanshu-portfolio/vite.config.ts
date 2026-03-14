@@ -42,7 +42,7 @@ export default defineConfig({
             return "r3f-vendor";
           }
 
-          if (id.includes("node_modules/gsap") || id.includes("gsap-trial")) {
+          if (id.includes("node_modules/gsap")) {
             return "gsap-vendor";
           }
         },

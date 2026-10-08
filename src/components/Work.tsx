@@ -22,6 +22,24 @@ const projects = [
     tools: "Angular, Next.js, NestJS, TypeScript",
     image: "/images/bond.png",
   },
+  {
+    title: "AI Powered PR Reviewer",
+    category: "AI Code Review Platform",
+    tools: "TypeScript, Next.js, GitHub API",
+    image: "/images/placeholder.webp",
+  },
+  {
+    title: "AI CSV Importer",
+    category: "AI Data Import Platform",
+    tools: "TypeScript, React, CSV Processing",
+    image: "/images/placeholder.webp",
+  },
+  {
+    title: "Rydr - Ride Booking Platform",
+    category: "Ride Booking Platform",
+    tools: "Node.js, Express.js, MongoDB, Redis, Socket.IO, JWT, Bcrypt",
+    image: "/images/placeholder.webp",
+  },
 ];
 
 const Work = () => {
